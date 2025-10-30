@@ -18,20 +18,20 @@
     "name": "Elegant Dress",
     "price": 100,
     "category": "Women",
-    "image": "https://via.placeholder.com/220x200?text=Elegant+Dress"
+    "image": "assets/images/elegant dress1.jpg"
   },
   {
     "id": 4,
     "name": "Running Shoes",
     "price": 155,
     "category": "Sports",
-    "image": "https://via.placeholder.com/220x200?text=Running+Shoes"
+    "image": "assets/images/running shoes1.jpg"
   },
   {
     "id": 5,
     "name": "Leather Handbag",
     "price": 149,
     "category": "Women",
-    "image": "https://via.placeholder.com/220x200?text=Leather+Handbag"
+    "image": "assets/images/leather handbag1.jpg"
   }
 ]
