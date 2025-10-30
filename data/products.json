@@ -2,35 +2,35 @@
   {
     "id": 1,
     "name": "Classic White Shirt",
-    "price": 35,
+    "price": 100,
     "category": "Men",
     "image": "https://via.placeholder.com/220x200?text=White+Shirt"
   },
   {
     "id": 2,
     "name": "Denim Jacket",
-    "price": 60,
+    "price": 150,
     "category": "Men",
     "image": "https://via.placeholder.com/220x200?text=Denim+Jacket"
   },
   {
     "id": 3,
     "name": "Elegant Dress",
-    "price": 80,
+    "price": 100,
     "category": "Women",
     "image": "https://via.placeholder.com/220x200?text=Elegant+Dress"
   },
   {
     "id": 4,
     "name": "Running Shoes",
-    "price": 55,
+    "price": 155,
     "category": "Sports",
     "image": "https://via.placeholder.com/220x200?text=Running+Shoes"
   },
   {
     "id": 5,
     "name": "Leather Handbag",
-    "price": 90,
+    "price": 149,
     "category": "Women",
     "image": "https://via.placeholder.com/220x200?text=Leather+Handbag"
   }
